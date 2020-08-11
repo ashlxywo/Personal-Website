@@ -9,7 +9,7 @@ body {
   padding: 3px;
 }
 
-/* Flex boxes/ Styling Rules*/
+/* Flex boxes & Styling Rules*/
 
 .container {
   display: flex;
@@ -78,3 +78,4 @@ li a:hover {
 .futureprojects {
   font-size: 25px; 
 }
+/* Hobbies */
