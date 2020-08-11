@@ -83,11 +83,12 @@ li a:hover {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .friends {
   font-family: cursive;
   display: flex;
-  justify-content: center;
+  
 }
 .friendspic {
   display: flex;
@@ -96,27 +97,57 @@ li a:hover {
 }
 .friendscap {
   display: flex;
-  justify-content: center;
+  
 }
 .robotics {
   font-family: cursive;
   display: flex;
-  justify-content: center;
+  
 }
 .roboticspic {
   display: flex;
-justify-content: center;
-  border: 5px solid #0066cc;
-}
-.roboticscap{
-  display: flex;
   justify-content: center;
+  border: 5px solid #000000;
+}
+.roboticscap {
+  display: flex;
+  
 }
 .photo {
-  ;
+  font-family: cursive;
+  display: flex;
+  
 }
 .pic {
   display: flex;
-justify-content: center;
+  justify-content: center;
+  border: 5px solid #ffffff;
+}
+.fencing {
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+}
+.fencingpic {
+  display: flex;
+  justify-content: center;
   border: 5px solid #0066cc;
+}
+.fencingcap {
+  display: flex;
+  justify-content: center;
+}
+.drawing {
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+}
+.drawingpic {
+  display: flex;
+  justify-content: center;
+  border: 5px solid #000000;
+}
+.drawingcap {
+  display: flex;
+  justify-content: center;
 }
