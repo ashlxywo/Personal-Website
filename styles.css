@@ -20,16 +20,10 @@ h1 {
 .container {
   display: flex;
   flex-direction: row;
-  
-}
-.container {
-  display: flex;
   flex-wrap: wrap;
-}
-.container {
-  display: flex;
   justify-content: center;
 }
+
 .name {
   display: flex;
   justify-content: center;
@@ -66,13 +60,14 @@ li a {
   color: white;
   text-decoration: none;
   text-align: center;
-  padding: 1em;
+  padding: 2em;
   font-size: 1.3em;
 }
 li a:hover {
-  background-color:#0099cc;
+  background-color: #0099cc;
 }
 .navbar {
   display: flex;
   jusitfy-content: center;
+  margin-left: 340px;
 }
