@@ -88,7 +88,7 @@ li a:hover {
 .friends {
   font-family: cursive;
   display: flex;
-  
+  justify-content: center;
 }
 .friendspic {
   display: flex;
@@ -97,12 +97,12 @@ li a:hover {
 }
 .friendscap {
   display: flex;
-  
+  justify-content: center;
 }
 .robotics {
   font-family: cursive;
   display: flex;
-  
+  justify-content: center;
 }
 .roboticspic {
   display: flex;
@@ -111,12 +111,12 @@ li a:hover {
 }
 .roboticscap {
   display: flex;
-  
+  justify-content: center;
 }
 .photo {
   font-family: cursive;
   display: flex;
-  
+  justify-content: center;
 }
 .pic {
   display: flex;
