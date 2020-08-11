@@ -88,12 +88,15 @@ li a:hover {
 .friends {
   font-family: cursive;
   display: flex;
-  justify-content: center; 
+  justify-content: center;
 }
 .friendspic {
   display: flex;
   border: 5px solid #0066cc;
   border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .friendscap {
   display: flex;
@@ -109,6 +112,9 @@ li a:hover {
   justify-content: center;
   border: 5px solid #000000;
   border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .roboticscap {
   display: flex;
@@ -124,6 +130,9 @@ li a:hover {
   justify-content: center;
   border: 5px solid #ffffff;
   border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .fencing {
   font-family: cursive;
@@ -135,6 +144,9 @@ li a:hover {
   justify-content: center;
   border: 5px solid #0066cc;
   border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .fencingcap {
   display: flex;
@@ -150,6 +162,9 @@ li a:hover {
   justify-content: center;
   border: 5px solid #000000;
   border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .drawingcap {
   display: flex;
