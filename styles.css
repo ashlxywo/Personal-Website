@@ -93,4 +93,9 @@ li a:hover {
 .friendspic {
   display: flex;
   justify-content: center;
+  border-radius: 15px;
+}
+.friendscap {
+  display: flex;
+justify-content: center;
 }
