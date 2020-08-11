@@ -1,6 +1,6 @@
 /*TODO: Add a background color or image to your website*/
 body {
-  background-color: #ffa5ff;
+  background-color: #b3f0ff;
 }
 /* Complete the following information */
 h1 {
@@ -19,3 +19,12 @@ h1 {
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex*/
+.image {
+  display: flex;
+  flex direction: column;
+}
+.container {
+display: flex;
+  flex-wrap: wrap;
+}
+
