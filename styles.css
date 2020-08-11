@@ -79,3 +79,14 @@ li a:hover {
   font-size: 25px; 
 }
 /* Hobbies */
+.friends{
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+  .container2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+}
