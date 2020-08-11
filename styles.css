@@ -88,14 +88,12 @@ li a:hover {
 .friends {
   font-family: cursive;
   display: flex;
-  justify-content: center;
+  justify-content: center; 
 }
 .friendspic {
   display: flex;
-  justify-content: center;
   border: 5px solid #0066cc;
   border-radius: 15%;
-  margin-left: 30px;
 }
 .friendscap {
   display: flex;
