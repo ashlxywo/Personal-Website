@@ -16,7 +16,6 @@ h1 {
 }
 /*TODO: Add styling rules for the text and images on your website.*/
 
-/*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex*/
 
@@ -43,4 +42,39 @@ display: flex;
 .p.s {
   display: flex;
   justify-content: center;
+}
+.me {
+  border-radius: 10%;
+}
+/* Navigation Bar */
+ul {
+  list-style-type: none;
+  background-color:#00ace6;
+}
+li {
+  display: inline;
+}
+li a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.3em;
+}
+ul {
+  list-style-type: none;
+  padding: 1em;
+  background-color: #00ace6;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  border-right: 2px solid white;
+}
+li a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 2em;
+  font-size: 1.3em;
 }
