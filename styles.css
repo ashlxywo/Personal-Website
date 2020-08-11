@@ -31,13 +31,14 @@ body {
   justify-content: center;
 }
 .me {
-  border-radius: 10%;
+  border-radius: 15%;
+  border: 5px solid #ffffff;
 }
 /* Navigation Bar */
 
 ul {
-  background-color: #00ace6;
   list-style-type: none;
+  background-color: #00ace6;
   padding: 1em;
   overflow: hidden;
 }
