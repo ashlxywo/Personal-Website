@@ -60,3 +60,13 @@ li a {
 li a:hover {
   background-color: #0099cc;
 }
+/* Fonts */
+.name {
+  font-family: cursive
+}
+.navbar {
+font-family: cursive
+}
+.hobbies {
+  font-family: cursive
+}
