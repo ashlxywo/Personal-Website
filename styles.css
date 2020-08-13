@@ -172,3 +172,17 @@ li a:hover {
   display: flex;
   justify-content: center;
 }
+.websiteproject {
+max-width: 700px;
+  max-height: 700px;
+  border-radius: 12%;
+  border: 5px solid #000000;
+}
+.website {
+  display: flex;
+  justify-content: center;
+}
+.websitecap {
+  display: flex;
+  justify-content: center;
+}
